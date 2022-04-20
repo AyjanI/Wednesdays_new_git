@@ -7,4 +7,5 @@ public class GroupPractice {
 
     // changes by petro
     // change by ermek
+    // changes by ayjan
 }
