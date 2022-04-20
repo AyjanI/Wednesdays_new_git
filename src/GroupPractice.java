@@ -10,4 +10,7 @@ public class GroupPractice {
     // changes by ayjan
 
     // changes by petro
+
+    //change by ermek 2
+    //change by eremk3
 }
